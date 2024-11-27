@@ -20,7 +20,7 @@ A simple and responsive TODO List application built with React.js, allowing user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/RoopTeja04/CURD-operations-in-TODO.git
    cd todo-list-app
 2. Install dependencies:
     ```bash
