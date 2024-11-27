@@ -46,7 +46,7 @@ A simple and responsive TODO List application built with React.js, allowing user
 
 # Project Structure
 
-    ```bash
+    ```
     src/
     ├── components/
     │   └── App.js          # Main application component
