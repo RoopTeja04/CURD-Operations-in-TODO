@@ -125,3 +125,16 @@ body{
   background-color: red;
   color: white;
 }
+
+@media (width: 440px) {
+  .todo{
+    width: 95%;
+    left: 2.5%;
+    top: 10%;
+  }
+  .todo-list{
+    width: 95%;
+    left: 2.5%;
+    top: 32%;
+  }
+}
